@@ -1,0 +1,10 @@
+ti\umy\webservice\webservice\c\project\satu\Datamahasiswa.class
+ti\umy\webservice\webservice\c\project\satu\DatamahasiswaJpaController.class
+ti\umy\webservice\webservice\c\project\satu\Datamahasiswa_.class
+ti\umy\webservice\webservice\c\project\satu\DatabaseControllerJson.class
+ti\umy\webservice\webservice\c\project\satu\exceptions\PreexistingEntityException.class
+ti\umy\webservice\webservice\c\project\satu\DatabaseControllerXML.class
+ti\umy\webservice\webservice\c\project\satu\exceptions\IllegalOrphanException.class
+ti\umy\webservice\webservice\c\project\satu\Application.class
+.netbeans_automatic_build
+ti\umy\webservice\webservice\c\project\satu\exceptions\NonexistentEntityException.class
